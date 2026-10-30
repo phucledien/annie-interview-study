@@ -2,6 +2,8 @@
 
 A read-only, illustrated 10-day guide for a Business Analyst interview involving a public-health tools marketplace. Each day has a tab, visual memory aids, tables, practice and interview questions.
 
+Each tab contains its own 30-minute study plan, relevant detailed notes, worked examples, answer tips and sources. Days 1–7 include expandable topic references; the former combined reference section has been distributed among the matching days. Healthcare content remains within Days 8–10.
+
 ## Read the guide
 
 **[Open the study book](https://phucledien.github.io/annie-interview-study/)**
