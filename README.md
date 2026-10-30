@@ -21,11 +21,13 @@ On iPad, open the link in Safari. Use Share → Add to Home Screen if you want a
 | 5 | Delivery, RAID and risk |
 | 6 | Models and facilitation |
 | 7 | Interview rehearsal |
-| 8 | Healthcare, public health and stakeholders |
-| 9 | Health data and basic epidemiology |
-| 10 | A trustworthy public-health tools marketplace |
+| 8 | The village watchtower: public health, signals and marketplace users |
+| 9 | The recipe box: data, tools, metadata and knowledge graphs |
+| 10 | The library helper: AI discovery, review and BA delivery |
 
-Plan for 30 minutes each day, with optional work for a full hour. Source links are included in the lessons. Healthcare references include WHO, CDC, HealthIT.gov, HL7, HHS and the GO FAIR Foundation. Last checked: 29 October 2026.
+Plan for 30 minutes each day, with optional work for a full hour. Days 8–10 have been adapted to a role supporting discovery and reuse of analytical resources for epidemic and pandemic intelligence. Simple illustrated stories connect the domain to research, artifact modelling, AI requirements, governance and day-to-day BA delivery.
+
+Source links are included beside the relevant lessons. References include WHO's Collaboratory and public-health intelligence material, CDC, NIST, the GO FAIR Foundation and optional HealthIT.gov, HL7 and HHS background. Last checked: 30 October 2026. The guide is independent study material, not a WHO publication or endorsement.
 
 ## Behaviour and scope
 
