@@ -21,13 +21,13 @@ On iPad, open the link in Safari. Use Share → Add to Home Screen if you want a
 | 5 | Delivery, RAID and risk |
 | 6 | Models and facilitation |
 | 7 | BA / Agile pocket reference · healthcare snapshot · behavioral stories · strengths, growth areas and career plans |
-| 8 | Public health story · WHO Collaboratory sources · Marketplace JD and unverified Layer 4 wording |
-| 9 | Data and tools · resource cards · identity, versions and catalogue decisions |
-| 10 | Discovery, AI review and lifecycle · prepared/live case-study exercises |
+| 8 | Public health story · WHO sources and JD · eight task families and user journeys |
+| 9 | Data and resource cards · identity/version decisions · publishability, task fit and adoption |
+| 10 | Discovery and AI review · case exercises · complete task-to-trial journey |
 | 11 | Catalogue BA questions · reasoning paths · similar experience · options and designer collaboration |
 | 12 | Short catalogue answers · terminology · decision practice · BA and UI/UX teamwork |
 
-Plan for 30 minutes each day, with optional work for a full hour. Days 8–10 have been adapted to a role supporting discovery and reuse of analytical resources for epidemic and pandemic intelligence. Each of these days has four named knowledge categories and follows the same fictional characters. Lessons explain the theory in plain language, then show it in a story, a worked example or a picture. Quick checks reveal answers; “Learn a little more” sections contain the deeper terminology and interview practice.
+Plan for 30 minutes each day, with optional work for a full hour. Days 8–10 have been adapted to a role supporting discovery and reuse of analytical resources for epidemic and pandemic intelligence. Each of these days has five named knowledge categories and follows the same fictional characters. Lessons explain the theory in plain language, then show it in a story, a worked example or a picture. Quick checks reveal answers; “Learn a little more” sections contain the deeper terminology and interview practice.
 
 Day 7 includes INVEST, Given–When–Then examples, other BA / PO / delivery reminders, a high-level domain recap and interview answer templates. It separates past behavioral examples from hypothetical approaches and keeps the original mock interview and scoring as optional practice. Personal answers must be adapted to the learner's real experience.
 
@@ -40,6 +40,10 @@ Source links are included beside the relevant lessons. References include WHO, C
 The latest WHO review distinguishes official Collaboratory material, the historical 2023–2025 strategy, the supplied vendor JD, and a related vendor job advert. “Strategic Shift Layer 4” and “Strategic Solution Layer 4” were not verified in the public WHO material searched; no four-layer architecture is invented. The related advert describes a 15-minute presentation on a case shared in advance, but it does not confirm this learner’s selection process. Day 10 separates that format from a live 15-minute exercise and adds role-play, metadata/review and search-diagnosis practice. All exercises are original preparation, not confirmed WHO assessment questions.
 
 Days 11–12 clarify the BA’s active contribution to user research, low-fidelity wireframes, rules, states, design briefs and validation. The designer brings interaction and visual-design expertise; engineers validate technical feasibility; the WHO PO retains scope, priority and direction. Day 12 keeps the PO/SM reminder brief and includes a comparison-screen example.
+
+The end-user update reviews the WHO Immunization Devices Catalogue snapshot dated 29 October 2026 (802 pages), especially the preface, E003.4 selection guidance and an example product sheet. It uses the selection pattern as an analogy, not the Marketplace’s certification or procurement policy. Day 8 E maps eight public WHO contexts—EIOS, Go.Data, investigation templates, GHO data, forecasting, scenario modelling, risk assessment and collaboration—to candidate Marketplace tasks. This is a public-source coverage map, not a complete internal WHO inventory or a claim that these products are Marketplace listings.
+
+Day 9 E separates listing eligibility, fit to a specific task and successful adoption. It adds task requirements, pass/fail/unknown decisions and type-specific metadata. Day 10 E follows a fictional analyst comparing three resources against weekly input data, a descriptive-chart output and local-processing constraints, then following the source for a permitted trial. Days 11–12 reuse this reasoning in the discovery and case answers. All proposed matching rules and toy tools are labelled as practice, with WHO source links alongside the relevant context.
 
 ## Behaviour and scope
 
