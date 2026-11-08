@@ -1,56 +1,56 @@
-# Interview study book
+# Annie Interview Study
 
-A read-only, illustrated 12-day guide for a Business Analyst interview involving a public-health tools marketplace. Each day has a tab, visual memory aids, tables, practice and interview questions.
+A topic-based, illustrated interview guide for **Health and Banking**, with shared **Business Analyst (BA), Scrum Master (SM) and Release Train Engineer (RTE)** knowledge. Study in any order; there is no daily schedule or interview date to meet.
 
-Each tab contains its own 30-minute study plan, relevant detailed notes, worked examples, answer tips and sources. Days 1–7 include expandable topic references; the former combined reference section has been distributed among the matching days. Day 7 includes a short healthcare recap; the full domain lessons remain in Days 8–10.
+**[Open the study guide](https://phucledien.github.io/annie-interview-study/)**
 
-## Read the guide
+On iPad, open the link in Safari. Use Share → Add to Home Screen for a shortcut. The hosted page requires an initial internet connection; there is no offline-installation feature.
 
-**[Open the study book](https://phucledien.github.io/annie-interview-study/)**
+## Choose a study area
 
-On iPad, open the link in Safari. Use Share → Add to Home Screen if you want a shortcut. Internet access is needed to load the hosted page; this is not an offline app.
-
-## Chapters
-
-| Day | Focus |
+| Area | Topics |
 | --- | --- |
-| 1 | BA discovery and requirements |
-| 2 | INVEST, acceptance criteria and UAT |
-| 3 | Agile, Scrum and accountabilities |
-| 4 | PO priorities, outcomes and KISS |
-| 5 | Delivery, RAID and risk |
-| 6 | Models and facilitation |
-| 7 | BA / Agile pocket reference · healthcare snapshot · behavioral stories · strengths, growth areas and career plans |
-| 8 | Public health story · WHO sources and JD · eight task families and user journeys |
-| 9 | Data and resource cards · identity/version decisions · publishability, task fit and adoption |
-| 10 | Discovery and AI review · case exercises · complete task-to-trial journey |
-| 11 | Catalogue BA questions · reasoning paths · similar experience · options and designer collaboration |
-| 12 | Short catalogue answers · terminology · decision practice · BA and UI/UX teamwork |
+| Shared BA & Scrum Master | Discovery; stories and UAT; Scrum Master; priorities and value; delivery and risk; models and integrations; interview toolkit |
+| Health | Foundations; data and resources; discovery and AI; question bank; answer practice |
+| Banking | Foundations; technical analysis; question bank |
+| Release Train Engineer | Role boundaries, PI Planning, dependencies, flow, coaching and integrated-outcome practice |
 
-Plan for 30 minutes each day, with optional work for a full hour. Days 8–10 have been adapted to a role supporting discovery and reuse of analytical resources for epidemic and pandemic intelligence. Each of these days has five named knowledge categories and follows the same fictional characters. Lessons explain the theory in plain language, then show it in a story, a worked example or a picture. Quick checks reveal answers; “Learn a little more” sections contain the deeper terminology and interview practice.
+The 16 topics include optional short practice sessions, worked examples, interview questions and answer paths. The study-area selector keeps related topics together. Topic links switch areas and open the relevant content. Keyboard navigation supports arrow keys, Home and End within the selected area.
 
-Day 7 includes INVEST, Given–When–Then examples, other BA / PO / delivery reminders, a high-level domain recap and interview answer templates. It separates past behavioral examples from hypothetical approaches and keeps the original mock interview and scoring as optional practice. Personal answers must be adapted to the learner's real experience.
+## Learning routes
 
-Day 11 maps the supplied interview questions to the earlier lessons and gives an answer path for every question. It connects knowledge-library maintenance, dataset documentation with reviewers, data mapping, mock-ups and facilitation to catalogue work without claiming direct catalogue or production AI-feature ownership. It includes a conceptual entity model, a wireframe, lifecycle approvals, an AI evaluation example and a timed five-minute case presentation. The separate sprint/PO question is replaced by catalogue option appraisal. Each question has a decision path and a truthful experience bridge. Practice timing is not a confirmed interview schedule; preparation can be split into two 30-minute sessions. Unknown time splits, item counts and past results remain marked for the learner to supply. All numerical AI gates and case designs are explicitly hypothetical. New references checked on 3 November 2026 include W3C SKOS/DCAT, NIST, CRAN and GitHub documentation.
+- **BA:** discovery → stories/UAT → models/integrations → a domain question bank.
+- **Scrum Master:** Scrum Master → delivery/risk → interview toolkit → a domain scenario.
+- **RTE:** RTE practice → delivery/risk → priorities/value → a scenario involving several teams.
+- **Changing domains:** reuse analysis methods, learn users and terminology, and check business rules with domain experts.
 
-Day 12 summarises all 11 answers in roughly 30–45-second openings grounded in the learner's current banking work and earlier software-services experience. It distinguishes recommendations from approval and explains eight core project terms through a fictional library example. A connected map separates sources, metadata, taxonomy, listings, the catalogue, data models and the primary success measure. Expanded decision practice covers failed-search investigation, deprecation and migration, expert-validated domain outputs, library reuse, build/buy/adopt/extend comparisons, ROI versus payback and a 15-minute live catalogue case with new evidence at each step. Day 11's classification, search and lifecycle notes have matching clarifications. All practice evidence and cost figures are fictional; no platform-control, Python implementation or measured search experience is invented.
+Health retains the detailed public-health and WHO tools-marketplace examples. These are a specific case study, not a universal health architecture or a confirmed employer interview process. A clinical-workflow exercise adds a second Health context. Historical source dates remain where they help establish provenance.
 
-Source links are included beside the relevant lessons. References include WHO, CDC, NIST, the GO FAIR Foundation, W3C and the National Academies. Healthcare foundations checked: 31 October 2026; WHO context and related-role evidence refreshed on 3 November 2026. Day 7 revision sources checked: 1 November 2026, including Bill Wake, Agile Alliance, the Scrum Guide and University of Reading careers guidance. Day 12 reuses the verified Day 11 terminology sources; its decision practice also links to GOV.UK, PyPI and pandas documentation checked on 3 November 2026. These support general reasoning, not WHO procurement or lifecycle policy. The guide is independent study material, not a WHO publication or endorsement.
+Banking currently provides a foundation: workflow and status analysis, payments terminology, fraud-review examples, API/data mapping, SQL investigation, requirements, acceptance criteria and UAT. A future banking book can extend the topics with chapter references and source-backed detail. No content has been attributed to a book not yet supplied, and no current local regulatory thresholds or internal bank policies are invented.
 
-The latest WHO review distinguishes official Collaboratory material, the historical 2023–2025 strategy, the supplied vendor JD, and a related vendor job advert. “Strategic Shift Layer 4” and “Strategic Solution Layer 4” were not verified in the public WHO material searched; no four-layer architecture is invented. The related advert describes a 15-minute presentation on a case shared in advance, but it does not confirm this learner’s selection process. Day 10 separates that format from a live 15-minute exercise and adds role-play, metadata/review and search-diagnosis practice. All exercises are original preparation, not confirmed WHO assessment questions.
+RTE means Release Train Engineer in SAFe. Its scope is distinguished from Scrum Master and BA contributions. Multi-team BA/SM experience is transferable, but is not presented as formal RTE employment experience. Framework summaries reference the official Scrum Guide and Scaled Agile pages; worked scenarios and rehearsal templates are original practice.
 
-Days 11–12 clarify the BA’s active contribution to user research, low-fidelity wireframes, rules, states, design briefs and validation. The designer brings interaction and visual-design expertise; engineers validate technical feasibility; the WHO PO retains scope, priority and direction. Day 12 keeps the PO/SM reminder brief and includes a comparison-screen example.
+## Evidence and sources
 
-The end-user update reviews the WHO Immunization Devices Catalogue snapshot dated 29 October 2026 (802 pages), especially the preface, E003.4 selection guidance and an example product sheet. It uses the selection pattern as an analogy, not the Marketplace’s certification or procurement policy. Day 8 E maps eight public WHO contexts—EIOS, Go.Data, investigation templates, GHO data, forecasting, scenario modelling, risk assessment and collaboration—to candidate Marketplace tasks. This is a public-source coverage map, not a complete internal WHO inventory or a claim that these products are Marketplace listings.
+Sources are linked beside the relevant lessons. Retained Health references include WHO, CDC, NIST, W3C, GO FAIR and the National Academies. Shared BA and Agile references include IIBA, the Agile Manifesto, Scrum Guide and other technique-specific primary references.
 
-Day 9 E separates listing eligibility, fit to a specific task and successful adoption. It adds task requirements, pass/fail/unknown decisions and type-specific metadata. Day 10 E follows a fictional analyst comparing three resources against weekly input data, a descriptive-chart output and local-processing constraints, then following the source for a permitted trial. Days 11–12 reuse this reasoning in the discovery and case answers. All proposed matching rules and toy tools are labelled as practice, with WHO source links alongside the relevant context.
+The added foundation references are:
+
+- [BIS / CPMI payments glossary](https://www.bis.org/committees/cpmi/glossary)
+- [OpenAPI parameters and payloads](https://learn.openapis.org/specification/parameters.html)
+- [PostgreSQL tutorial](https://www.postgresql.org/docs/current/tutorial.html)
+- [Scrum Guide](https://scrumguides.org/scrum-guide.html)
+- [Scaled Agile: Release Train Engineer](https://framework.scaledagile.com/release-train-engineer)
+- [Scaled Agile: PI Planning](https://framework.scaledagile.com/pi-planning)
+
+The banking and RTE foundation references were checked on 8 November 2026. Source-check dates describe provenance; they do not impose a study schedule. Rules, framework vocabulary and product behaviour should be checked against the relevant current sources and organisational context.
 
 ## Behaviour and scope
 
-- Lessons cannot be edited through the website. Tabs, disclosures and completion checkboxes remain interactive.
-- Completion is stored in the browser on that device; it does not sync across devices.
-- The teaching scenarios and example figures are fictional. They do not establish medical, legal or product requirements.
-- Project-specific health, data and review rules require confirmation with the relevant domain and governance experts.
-- This public repository contains the study website only. Employer/project-specific prompts were generalised for publication.
+- Lessons are read-only. Area selection, topics, disclosures and practice checkboxes remain interactive.
+- Progress is stored in the browser on that device, not synced across devices. Existing day-based checkmarks migrate to the corresponding topics on the same site origin and path.
+- Exercises, example figures and case outcomes are fictional. They are not clinical guidance, bank policy or the learner’s employment achievements.
+- Personal answers require the learner’s own facts. Unverified Workbench results remain unclaimed.
+- This is independent study material, not an endorsement or publication of WHO, ACB, Scrum.org or Scaled Agile.
 
-`index.html` is a self-contained static export. GitHub Pages serves the `main` branch from the repository root; no installation or build step is required.
+`index.html` is the self-contained static export. GitHub Pages serves `main` from the repository root; no installation or build step is needed to host it. The editing workspace retains the illustrated lesson baseline and the topic-based source, navigation and additional chapters used to produce this export.
