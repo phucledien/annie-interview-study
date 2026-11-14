@@ -6,7 +6,9 @@ A topic-based, illustrated interview guide for **Health and Banking**, with shar
 
 On iPad, open the link in Safari. Use Share → Add to Home Screen for a shortcut. The hosted page requires an initial internet connection; there is no offline-installation feature.
 
-## Choose a study area
+## Choose a route
+
+The home screen is a colourful study map with four large route cards and four interview shortcuts. Choose a path, jump to any mission, and use **Practised! Next mission** to record progress and continue. **Route map** returns home; **Continue my mission** resumes your last topic. Every lesson is available from the start.
 
 | Area | Topics |
 | --- | --- |
@@ -15,13 +17,16 @@ On iPad, open the link in Safari. Use Share → Add to Home Screen for a shortcu
 | Banking | Foundations; technical analysis; question bank |
 | Release Train Engineer | Role boundaries, PI Planning, dependencies, flow, coaching and integrated-outcome practice |
 
-The 16 topics include optional short practice sessions, worked examples, interview questions and answer paths. The study-area selector keeps related topics together. Topic links switch areas and open the relevant content. Keyboard navigation supports arrow keys, Home and End within the selected area.
+The 16 topics include optional short practice sessions, worked examples, interview questions and answer paths. Mission buttons show the route order and completed topics. Internal links switch to the relevant lesson and open its notes. All navigation and quiz buttons work with keyboard focus and Enter/Space, as well as touch.
+
+Banking now includes **nine original comic episodes** with illustrated characters, speech bubbles and memory prompts. **Seven quick decision questions** provide immediate feedback and allow retries. Complete explanations, examples and official sources remain in expandable notebooks. The whole guide uses larger controls and readable stacked tables on phones.
 
 ## Learning routes
 
-- **BA:** discovery → stories/UAT → models/integrations → a domain question bank.
-- **Scrum Master:** Scrum Master → delivery/risk → interview toolkit → a domain scenario.
-- **RTE:** RTE practice → delivery/risk → priorities/value → a scenario involving several teams.
+- **BA + Banking:** discovery → stories/UAT → models/integrations → Banking foundations → technical analysis → question bank.
+- **BA + Health:** discovery → stories/UAT → models/integrations → the five Health topics.
+- **Scrum Master:** Scrum Master → delivery/risk → interview toolkit.
+- **RTE:** RTE practice → delivery/risk → priorities/value.
 - **Changing domains:** reuse analysis methods, learn users and terminology, and check business rules with domain experts.
 
 Health retains the detailed public-health and WHO tools-marketplace examples. These are a specific case study, not a universal health architecture or a confirmed employer interview process. A clinical-workflow exercise adds a second Health context. Historical source dates remain where they help establish provenance.
@@ -66,8 +71,9 @@ The Australian banking expansion also links current primary references, checked 
 
 ## Behaviour and scope
 
-- Lessons are read-only. Area selection, topics, disclosures and practice checkboxes remain interactive.
-- Progress is stored in the browser on that device, not synced across devices. Existing day-based checkmarks migrate to the corresponding topics on the same site origin and path.
+- Lessons are read-only. Routes, mission buttons, disclosures, quizzes and practice checkboxes remain interactive.
+- Practice stars count completed topics, not assessed mastery. Quiz answers do not lock lessons or award completion automatically.
+- Progress and quiz choices are stored in the browser on that device, not synced across devices. Existing day-based and topic-based checkmarks migrate on the same site origin and path. Browser data removal or private browsing can affect persistence.
 - Exercises, example figures and case outcomes are fictional. They are not clinical guidance, bank policy or the learner’s employment achievements.
 - Personal answers require the learner’s own facts. Unverified Workbench results remain unclaimed.
 - This is independent study material, not an endorsement or publication of WHO, ACB, FINSIA, the Chartered Banker Institute, Australian regulators, Scrum.org or Scaled Agile.
