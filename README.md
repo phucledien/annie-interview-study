@@ -26,7 +26,13 @@ The 16 topics include optional short practice sessions, worked examples, intervi
 
 Health retains the detailed public-health and WHO tools-marketplace examples. These are a specific case study, not a universal health architecture or a confirmed employer interview process. A clinical-workflow exercise adds a second Health context. Historical source dates remain where they help establish provenance.
 
-Banking currently provides a foundation: workflow and status analysis, payments terminology, fraud-review examples, API/data mapping, SQL investigation, requirements, acceptance criteria and UAT. A future banking book can extend the topics with chapter references and source-backed detail. No content has been attributed to a book not yet supplied, and no current local regulatory thresholds or internal bank policies are invented.
+Banking is an Australian banking refresher for a learner with existing banking experience, informed by **FINSIA / Chartered Banker Institute, Professional Banking Fundamentals, edition 3.1 (November 2021 cover)**. The three Banking tabs cover:
+
+- **Foundations:** bank financials and products; the 4Cs of credit, LVR and repayment capacity; Australian authorities; customer protection, ethics, complaints and risk controls. Complex terms have short explanations and practical examples.
+- **Technical analysis:** API/data mapping, SQL, UAT, control-to-test traceability, failed-result investigation, build/configure/buy decisions, payback assumptions and BA collaboration with UI/UX.
+- **Question bank:** 12 concise answer drafts tied to banking/fraud BA experience, evidence prompts and a 15-minute case about a fraud-review queue. Proposed approaches are distinguished from verified past experience.
+
+Book references include chapter and page numbers. The guide contains original summaries and exercises, not the textbook or its assessment material. The source PDF is not distributed in this repository. The current-update panel distinguishes the 2021 foundation from selected Australian changes checked on **14 November 2026**, including AML/CTF, CPS 230, FAR, the Banking Code and BNPL. It is not an exhaustive legal update or an internal bank policy.
 
 RTE means Release Train Engineer in SAFe. Its scope is distinguished from Scrum Master and BA contributions. Multi-team BA/SM experience is transferable, but is not presented as formal RTE employment experience. Framework summaries reference the official Scrum Guide and Scaled Agile pages; worked scenarios and rehearsal templates are original practice.
 
@@ -45,12 +51,25 @@ The added foundation references are:
 
 The banking and RTE foundation references were checked on 8 November 2026. Source-check dates describe provenance; they do not impose a study schedule. Rules, framework vocabulary and product behaviour should be checked against the relevant current sources and organisational context.
 
+The Australian banking expansion also links current primary references, checked on 14 November 2026:
+
+- [CFR: member agencies](https://www.cfr.gov.au/about/member-agencies.html)
+- [ASIC: responsible lending](https://www.asic.gov.au/regulatory-resources/credit/responsible-lending)
+- [ASIC: dispute resolution](https://www.asic.gov.au/regulatory-resources/financial-services/dispute-resolution)
+- [ASIC: information and advice](https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-244-giving-information-general-advice-and-scaled-advice)
+- [ASIC: BNPL credit licensing](https://www.asic.gov.au/regulatory-resources/credit/buy-now-pay-later-credit-contracts-credit-licensing)
+- [AUSTRAC: updated AML/CTF obligations](https://www.austrac.gov.au/news-and-media/article/changes-amlctf-obligations-what-you-need-do)
+- [APRA: CPS 230](https://www.apra.gov.au/standards/cps-230)
+- [APRA: FAR implementation](https://www.apra.gov.au/news-and-publications/observations-implementation-financial-accountability-regime-banking-industry)
+- [APRA: Financial Claims Scheme](https://www.apra.gov.au/frequently-asked-questions-about-banking-and-financial-claims-scheme)
+- [ABA: Banking Code](https://www.ausbanking.org.au/banking-code/)
+
 ## Behaviour and scope
 
 - Lessons are read-only. Area selection, topics, disclosures and practice checkboxes remain interactive.
 - Progress is stored in the browser on that device, not synced across devices. Existing day-based checkmarks migrate to the corresponding topics on the same site origin and path.
 - Exercises, example figures and case outcomes are fictional. They are not clinical guidance, bank policy or the learner’s employment achievements.
 - Personal answers require the learner’s own facts. Unverified Workbench results remain unclaimed.
-- This is independent study material, not an endorsement or publication of WHO, ACB, Scrum.org or Scaled Agile.
+- This is independent study material, not an endorsement or publication of WHO, ACB, FINSIA, the Chartered Banker Institute, Australian regulators, Scrum.org or Scaled Agile.
 
 `index.html` is the self-contained static export. GitHub Pages serves `main` from the repository root; no installation or build step is needed to host it. The editing workspace retains the illustrated lesson baseline and the topic-based source, navigation and additional chapters used to produce this export.
